@@ -20,11 +20,6 @@
         "github": "jmunroe"
     },
     {
-        "name": "Dan(i) Jones",
-        "organization": "British Antarctic Survey",
-        "github": "DanJonesOcean"
-    },
-    {
         "name": "Hillary Scannell",
         "organization": "Jupiter Intelligence",
         "github": "hscannell"
@@ -48,5 +43,10 @@
         "name": "Shane Elipot",
         "organization": "University of Miami",
         "github": "selipot"
+    },
+       {
+        "name": "Luis Daniel Pérez-Squeo",
+        "organization": "Oregon State University",
+        "github": "luisdanielperez"
     }
 ]
